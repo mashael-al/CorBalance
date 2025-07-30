@@ -31,3 +31,7 @@ This project showcases my skills in:
 This experience not only honed my technical expertise but also enhanced my project management, problem-solving, and collaboration skills—essential skills for any professional developer. CorBalance is a reflection of my dedication to delivering high-quality software solutions that positively impact users' health and lifestyle.
 
 I am excited to continue building on these foundations and contribute to more challenging and impactful projects in the future.
+
+
+- Live Demo
+To view the project, click on this link: [ https://drive.google.com/drive/folders/1DVp7R-4VI8qJXZgm_qS-KEmQSNKoYVYz?usp=sharing ]
