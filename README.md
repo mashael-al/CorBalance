@@ -1,36 +1,36 @@
-CorBalance
+CorBalance 
 
-CorBalance is a comprehensive web application designed to help you achieve a healthy and balanced lifestyle.
-Whether you want to improve your fitness, maintain a healthy diet, or stay motivated through challenges and community support, CorBalance is the perfect platform for you.
+Final Project at Tuwaiq Academy Web Bootcamp
 
-Technologies Used
-- ASP.NET Core
-- C#
-- HTML, CSS, Bootstrap
-- Git and GitHub
+This project was developed as the culmination of a month-long ASP.NET Core web development bootcamp at Tuwaiq Academy.
 
-Features
-- An interactive dashboard to track fitness goals.
-- Multiple sections including fitness, nutrition, health, challenges, community, about us, and contact page.
-- A responsive and modern user interface with vibrant colors.
-- An easy-to-use Arabic user interface.
+During the bootcamp, I learned how to build modern, scalable web applications using ASP.NET Core MVC, connect to databases via Entity Framework Core, and design interactive interfaces using Bootstrap.
 
-About This Project
+Project Overview 
+CorBalance is a health and fitness platform offering :
 
-This CorBalance project represents the successful conclusion of an intensive web development course focused on mastering ASP.NET Core.
+1. Fitness Programs - plans tailored to beginner, intermediate, and advanced users
 
-During the bootcamp, I developed a comprehensive fitness and wellness web application that integrates various key features, such as user profiles, fitness plans, nutrition guides, wellness tips, community engagement, and more—all designed with a smooth and responsive Arabic interface.
+2. Nutrition Section - meal plans, healthy recipes, and vitamin tips
 
-This project showcases my skills in:
+3. Wellness Section - tips for improving sleep and managing stress
 
-- Building scalable web applications using ASP.NET Core
-- Designing a user-friendly and accessible UI using Bootstrap and custom CSS
-- Implementing routing, controllers, and views in an MVC architecture
-- Managing source control and versioning via Git and GitHub
+4. Challenges and progress tracking - to encourage consistency
 
-This experience not only honed my technical expertise but also enhanced my project management, problem-solving, and collaboration skills—essential skills for any professional developer. CorBalance is a reflection of my dedication to delivering high-quality software solutions that positively impact users' health and lifestyle.
+5. "About" and "Contact" Sections - to engage with the community
 
-I am excited to continue building on these foundations and contribute to more challenging and impactful projects in the future.
+- Technology Stack Used
+1. ASP.NET Core MVC - the main web framework
+
+2. Entity Framework Core - database and data operations
+
+3. Bootstrap and custom CSS - responsive layout and design
+
+4. GitHub - version control and collaboration
+
+- This project marks the end of my bootcamp journey and the beginning of building more professional web applications.
+
+- For more details or to explore the project code, please review the repository files.
 
 
 - Live Demo
